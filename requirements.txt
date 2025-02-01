@@ -1,2 +1,4 @@
 redis==5.0.1
 pytz==2024.1
+alpaca-trade-api==3.0.0
+asyncio==3.4.3  # Although asyncio is part of Python standard library for versions >=3.4, you might need to add this for some setups
