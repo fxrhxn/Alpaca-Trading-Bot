@@ -12,19 +12,19 @@ A trading bot that listens for NVDA trade signals from Redis and executes buy/se
 
 ## 🛠 Installation & Setup
 
-## 1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-repo-name.git
 cd your-repo-name
 ```
 
-## 2️⃣ Set Up a Virtual Environment (Recommended)
+### 2️⃣ Set Up a Virtual Environment (Recommended)
 ```bash
 python3 -m venv venv
 source venv/bin/activate  # On Windows, use: venv\Scripts\activate
 ```
 
-## 3️⃣ Install Dependencies
+### 3️⃣ Install Dependencies
 ```bash
 pip install --upgrade pip
 pip install -r requirements.txt
