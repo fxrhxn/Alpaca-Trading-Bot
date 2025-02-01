@@ -3,7 +3,7 @@
 A trading bot that listens for NVDA trade signals from Redis and executes buy/sell orders using the Alpaca API.
 
 
-# 🚀 Features
+## Features
 - 📡 **Real-Time Signal Processing**: Listens for trade signals (`b` for buy, `s` for sell) in a Redis stream.  
 - 📈 **Automated Order Execution**: Executes real-time market orders via Alpaca.  
 - ⚡ **Low-Latency Trading**: Optimized for high-speed order execution.  
@@ -60,7 +60,7 @@ APCA_API_SECRET_KEY=your_secret_key_here
 ```
 
 
-## 🛠 Running the bot
+## Running the bot
 
 Ensure Redis is running:
 
